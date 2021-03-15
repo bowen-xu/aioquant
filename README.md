@@ -12,7 +12,7 @@
 `AIOQuant` 提供了简单而强大的功能：
 - 基于 [Python Asyncio](https://docs.python.org/3/library/asyncio.html) 原生异步事件循环，处理更简洁，效率更高；
 - 跨平台（Windows、Mac、Linux），可任意私有化部署；
-- 任意交易所的交易方式（现货、合约）统一，相同策略只需要区别不同配置，即可无缝切换任意交易所；
+- 任意交易所的交易方式（现货、合约、期货）统一，相同策略只需要区别不同配置，即可无缝切换任意交易所；
 - 所有交易所的行情统一，并通过事件订阅的形式，回调触发策略执行不同指令；
 - 支持任意多个策略协同运行；
 - 支持任意多个策略分布式运行；
@@ -117,6 +117,9 @@ python src/main.py config.json
 [第33期 Trade模块的强大功能让你的策略如虎添翼](https://www.bilibili.com/video/BV1WZ4y1u7KF)  
 [第34期 AIOQuant到底有何不同？](https://www.bilibili.com/video/BV17t4y1X74P/)  
 [第35期 搭建本地量化策略研发环境](https://www.bilibili.com/video/BV1w54y1B7ZH/)  
+[第36期 远程部署策略之服务器选购](https://www.bilibili.com/video/BV1m54y1S7Eg/)  
+[第37期 远程部署策略之服务器环境搭建](https://www.bilibili.com/video/BV1Y64y1c7CV/)  
+[第38期 远程服务器部署量化策略](https://www.bilibili.com/video/BV1zK4y1v7qX/)  
 
 
 ### 有任何问题，欢迎联系
